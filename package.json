@@ -1,5 +1,5 @@
 {
-  "name": "babelify-middleware",
+  "name": "express-babelify-middleware",
   "version": "0.1.0",
   "description": "browserify + babelify on the fly",
   "author": "Luis Farzati <lfarzati@gmail.com> (http://github.com/luisfarzati)",
@@ -22,6 +22,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/luisfarzati/babelify-middleware"
+    "url": "http://github.com/luisfarzati/express-babelify-middleware"
   }
 }
