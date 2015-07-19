@@ -1,0 +1,29 @@
+{
+  "parser": "babel-eslint",
+  "ecmaFeatures": {
+    "arrowFunctions": true,
+    "blockBindings": true,
+    "classes": true,
+    "defaultParams": true,
+    "destructuring": true,
+    "forOf": true,
+    "generators": true,
+    "modules": true,
+    "objectLiteralComputedProperties": true,
+    "objectLiteralDuplicateProperties": true,
+    "objectLiteralShorthandMethods": true,
+    "objectLiteralShorthandProperties": true,
+    "restParams": true,
+    "spread": true,
+    "templateStrings": true,
+    "unicodeCodePointEscapes": true
+  },
+  "rules": {
+    "semi": [2, "never"],
+    "quotes": [2, "single"]
+  },
+  "env": {
+    "browser": true,
+    "node": true
+  }
+}

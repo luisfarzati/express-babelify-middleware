@@ -1,0 +1,13 @@
+{
+  "name": "babelify-middleware-example",
+  "private": true,
+  "scripts": {
+    "start": "babel-node server.js"
+  },
+  "dependencies": {
+    "babel": "^5.6.23",
+    "express": "^4.13.1",
+    "babelify-middleware": "file:..",
+    "moment": "^2.10.3"
+  }
+}
