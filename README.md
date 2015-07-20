@@ -1,6 +1,6 @@
 ## express-babelify-middleware
 
-[![NPM version][npm-image]][npm-url] [![NPM downloads][npm-downloads-image]][npm-downloads-url] [![Dependencies status][dep-status-image]][dep-status-url] [![MIT license][license-image]][license-url]
+[![NPM version][npm-image]][npm-url] [![NPM downloads][npm-downloads-image]][npm-downloads-url] [![Dependencies status][dep-status-image]][dep-status-url] [![MIT license][license-image]][license-url] [![Donations][gratipay-image]][gratipay-url]
 
 [Browserify](http://browserify.org) + [Babelify](https://github.com/babel/babelify) middleware for super-fast ES6+ development.
 
@@ -51,3 +51,5 @@ Thanks to [ForbesLindesay](https://github.com/ForbesLindesay) for his [browserif
 [dep-status-url]: https://david-dm.org/luisfarzati/express-babelify-middleware
 [license-image]: http://img.shields.io/badge/license-MIT-blue.svg
 [license-url]: LICENSE
+[gratipay-image]: http://img.shields.io/gratipay/luisfarzati.svg
+[gratipay-url]: https://www.gratipay.com/luisfarzati
