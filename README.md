@@ -23,7 +23,7 @@ npm install express-babelify-middleware
 * babelifyOptions: see [Babel options](http://babeljs.io/docs/usage/options)
 
 ```js
-import babelify from 'babelify-middleware'
+import babelify from 'express-babelify-middleware'
 import express from 'express'
 
 var app = express()
