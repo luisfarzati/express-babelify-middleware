@@ -20,6 +20,7 @@ npm install express-babelify-middleware
 
 * entries: directory, file, or packages, see [browserify-middleware examples](https://github.com/ForbesLindesay/browserify-middleware#usage)
 * browserifyOptions: see [browserify-middleware options](https://github.com/ForbesLindesay/browserify-middleware#options--settings)
+* browserify default settings from ```browserify.settings``` are in ```babelify.browserifySettings```
 * babelifyOptions: see [Babel options](http://babeljs.io/docs/usage/options)
 
 ```js
