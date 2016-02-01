@@ -1,4 +1,4 @@
-import babelify from 'babelify-middleware'
+import babelify from 'express-babelify-middleware'
 import express from 'express'
 
 var app = express()
